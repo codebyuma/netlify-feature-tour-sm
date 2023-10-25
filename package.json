@@ -10,5 +10,8 @@
   },
   "devDependencies": {
     "astro": "^0.20.7"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.1"
   }
 }

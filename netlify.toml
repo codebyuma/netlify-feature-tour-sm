@@ -1,5 +1,5 @@
 [build]
-  command = "npm run build && node ./sayHello.js"
+  command = "npm run build && ts-node ./sayHello.ts"
 
 [context.production.environment]
   FRUIT = "banana"
